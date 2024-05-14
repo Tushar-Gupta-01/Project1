@@ -1,15 +1,12 @@
-# Inferno Online Clothing Store
+# Rental Clothing CLub Online Clothing Store
 
 An Ecommerce Clothing Store Website
 
 # Instructions
 
-To get the website up and running on your machine, you will need [XAMPP](https://www.apachefriends.org/download.html). After installtion, follow the steps below.
+ follow the steps below.
 
 1. Clone the repository using this command.
-   ```python
-   git clone https://github.com/yousaf530/Ecommerce-Clothing-Website.git
-   ```
 2. Copy and Paste the cloned folder in the **htdocs** folder in XAMPP folder on your machine.
 3. Start Apache and MySQL from XAMPP control panel.
 4. Open browser and write `localhost` in the url bar and XAMPP interface will open. Navigate to phpMyAdmin using Navbar.
@@ -37,10 +34,4 @@ HTML, CSS, JQuery and Bootstrap
 
 Implemented using PHP and integrated with MySQLi database for storing data
 
-### Sliders
 
-owl.carousel.js used for creating products sliders
-
-### Icons
-
-Font Awesome and Elegent Icons
