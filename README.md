@@ -1,4 +1,4 @@
-# Rental Clothing CLub Online Clothing Store
+# Rental Clothing Club Online Clothing Store
 
 An Ecommerce Clothing Store Website
 
